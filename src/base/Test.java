@@ -5,6 +5,7 @@ import java.util.Queue;
 
 public class Test {
     public static void main(String[] args) {
+        System.out.println(123);
         Node node = new Node(1);
         Node node2 = new Node(5);
         Node node3 = new Node(2);
